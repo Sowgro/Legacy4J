@@ -101,6 +101,7 @@
     "name": {"translate": "legacy.options.controlType.steam"},
     "font": {
       "default": "legacy:steam",
+      "hd": "legacy:steam_hd",
       "sd": {
         "id": "legacy:steam_sd",
         "iconHeight": 9
